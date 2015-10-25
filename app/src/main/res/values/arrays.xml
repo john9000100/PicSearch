@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dialog_options_array">
+        <item>Open Results Page</item>
+        <item>Delete</item>
+    </string-array>
+</resources>

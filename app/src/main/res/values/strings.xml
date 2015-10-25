@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PicSearch</string>
+    <string name="camera_button">Open Camera</string>
+    <string name="gallery_content">YOUR\nPICTURES</string>
+    <string name="delete_question">Confirm delete?</string>
+    <string name="yes_delete">Yes</string>
+    <string name="no_delete">No</string>
+
+</resources>
